@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|C:\\Users\\Msi\\source\\repos\\PostgreSQL\\postgresql\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|solutionrelative:postgresql\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|C:\\Users\\Msi\\source\\repos\\PostgreSQL\\postgresql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|solutionrelative:postgresql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|C:\\Users\\Msi\\source\\repos\\PostgreSQL\\postgresql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|solutionrelative:postgresql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|C:\\Users\\Msi\\source\\repos\\PostgreSQL\\postgresql\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|solutionrelative:postgresql\\frmdepartment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|c:\\users\\msi\\source\\repos\\postgresql\\postgresql\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|solutionrelative:postgresql\\frmemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|C:\\Users\\Msi\\source\\repos\\PostgreSQL\\postgresql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7A5B8E-3F6C-4492-8899-AFC405705B49}|PostgreSQL\\PostgreSQL.csproj|solutionrelative:postgresql\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\Form1.cs",
+              "RelativeDocumentMoniker": "PostgreSQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\Form1.cs",
+              "RelativeToolTip": "PostgreSQL\\Form1.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswBQAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:48:34.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "PostgreSQL\\FrmEmployee.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\FrmEmployee.cs",
+              "RelativeToolTip": "PostgreSQL\\FrmEmployee.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAswEgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:26:12.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\Program.cs",
+              "RelativeDocumentMoniker": "PostgreSQL\\Program.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\Program.cs",
+              "RelativeToolTip": "PostgreSQL\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:25:16.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\Form1.cs",
+              "RelativeDocumentMoniker": "PostgreSQL\\Form1.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\Form1.cs [Design]",
+              "RelativeToolTip": "PostgreSQL\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:12:22.972Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmEmployee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\FrmEmployee.cs",
+              "RelativeDocumentMoniker": "PostgreSQL\\FrmEmployee.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\FrmEmployee.cs [Design]",
+              "RelativeToolTip": "PostgreSQL\\FrmEmployee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:11:03.245Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmDepartment.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\FrmDepartment.cs",
+              "RelativeDocumentMoniker": "PostgreSQL\\FrmDepartment.cs",
+              "ToolTip": "C:\\Users\\Msi\\source\\repos\\PostgreSQL\\PostgreSQL\\FrmDepartment.cs [Design]",
+              "RelativeToolTip": "PostgreSQL\\FrmDepartment.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-30T19:03:55.184Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
